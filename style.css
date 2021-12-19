@@ -204,6 +204,10 @@ button:hover {
     width: 80%;
     margin: auto;
   }
+  .daftar-dengan div img {
+    width: 20px;
+    margin-left: 15px;
+  }
   form .user-details {
     display: block;
     width: 100%;
